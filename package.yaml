@@ -1,0 +1,8 @@
+# Package definition for lazydocker
+
+package_name: lazydocker
+github_repo: jesseduffield/lazydocker
+artifact_format: tar.gz
+description: "The lazier way to manage everything docker"
+
+# Build for all Debian suites and all supported architectures.
