@@ -2,6 +2,7 @@
 
 package_name: lazydocker
 github_repo: jesseduffield/lazydocker
+license: MIT
 artifact_format: tar.gz
 description: "The lazier way to manage everything docker"
 
