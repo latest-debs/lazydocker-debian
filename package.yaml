@@ -5,5 +5,6 @@ github_repo: jesseduffield/lazydocker
 license: MIT
 artifact_format: tar.gz
 description: "The lazier way to manage everything docker"
+license: MIT
 
 # Build for all Debian suites and all supported architectures.
